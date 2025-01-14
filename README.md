@@ -3592,5 +3592,5 @@ if __name__ == '__main__':
 Index
 -----
 * **Ctrl+F / ⌘F is usually sufficient.**
-* **Searching `'#<title>'` on the [webpage](https://rohitbedse.github.io/python-cheatsheet/) will limit the search to the titles.**
+* **Searching `'#<title>'` on the [webpage](https://python-cheatsheet.vercel.app/) will limit the search to the titles.**
 * **Click on the title's `'🔗'` to get a link to its section.**
